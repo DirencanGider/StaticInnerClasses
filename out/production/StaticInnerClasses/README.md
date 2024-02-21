@@ -1,0 +1,2 @@
+# StaticInnerClasses
+StaticInnerClasses
